@@ -1,0 +1,1 @@
+Total number candidate votes {'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630}Count is3521001The percentage is['Khan:63.00001050837531%', 'Correy:19.999994319797125%', 'Li:13.999996023857989%', "O'Tooley:2.999999147969569%"]The winner is Khan
